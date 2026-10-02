@@ -255,4 +255,4 @@ This repository serves as the official landing page for PCSX-Reloaded. The softw
 **Get the most recent version of PCSX-Reloaded today!**
 
 ---
-**Last updated:** 2026-10-02 18:55:17 UTC
+**Last updated:** 2026-10-02 22:47:30 UTC
